@@ -15,7 +15,7 @@ class Request
 
     static public function getInstance()
     {
-        if (self::$instance) {
+        if (!self::$instance) {
             self::$instance = new self();
         }
         return self::$instance;
@@ -43,7 +43,7 @@ class Request
         $headers = array();
         foreach (I('server.') as $key => $value) {
             if ('HTTP_' == substr($key, 0, 5)) {
-                $headers[str_replace('_', '-', substr($key, 5))] = $value;
+                $headers[strtolower(str_replace('_', '-', substr($key, 5)))] = $value;
             }
         }
         $this->headers = $headers;
