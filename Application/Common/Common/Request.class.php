@@ -28,8 +28,12 @@ class Request
      * @param string $default
      * @return string
      */
-    public function header($key, $default='')
+    public function header($key='', $default='')
     {
+        if ( !$key ) {
+            return $this->headers;
+        }
+        
         return isset($this->headers[$key]) ? $this->headers[$key] : $default;
     }
 

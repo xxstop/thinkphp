@@ -7,6 +7,6 @@ class InfoController extends RestController
 {
     public function read_get()
     {
-        $this->response($this->request->header('Client'));
+        $this->response($this->request->header());
     }
 }
