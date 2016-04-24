@@ -68,7 +68,6 @@ class Request
                 $headers['Authorization'] = $_SERVER['PHP_AUTH_DIGEST'];
             }
         }
-        var_dump($headers);
         $this->headers = $headers;
     }
 }
