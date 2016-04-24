@@ -1,11 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: xxstop
- * Date: 16/4/24
- * Time: 下午10:16
- */
-
 namespace Common\Common;
 
 
