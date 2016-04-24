@@ -3314,3 +3314,725 @@ INFO: [ app_begin ] --START--
 INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000374s ]
 INFO: [ app_begin ] --END-- [ RunTime:0.000425s ]
 
+[ 2016-04-24T16:02:29+08:00 ] 127.0.0.1 /index.php/Home/Info/readasdas
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007096s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000489s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000521s ]
+ERR: 非法操作:readasdas
+
+[ 2016-04-24T16:02:33+08:00 ] 127.0.0.1 /index.php/Home/Info/readasdas
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000635s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000471s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000588s ]
+ERR: 非法操作:readasdas
+
+[ 2016-04-24T16:02:37+08:00 ] 127.0.0.1 /index.php/Home/Info/readasdas
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000318s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000371s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000421s ]
+ERR: 非法操作:readasdas
+
+[ 2016-04-24T16:02:40+08:00 ] 127.0.0.1 /index.php/Home/Info/readasdas
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000361s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000477s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000547s ]
+ERR: 非法操作:readasdas
+
+[ 2016-04-24T16:03:17+08:00 ] 127.0.0.1 /index.php/Home/Info/readasdas
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000206s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000251s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000280s ]
+ERR: 非法操作:readasdas
+
+[ 2016-04-24T16:03:21+08:00 ] 127.0.0.1 /index.php/Home/Info/readasdas
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000360s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000292s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000337s ]
+ERR: 非法操作:readasdas
+
+[ 2016-04-24T16:04:07+08:00 ] 127.0.0.1 /index.php/Home/Info/readasdas
+ERR: 非法操作:readasdas
+
+[ 2016-04-24T16:04:36+08:00 ] 127.0.0.1 /index.php/Home/Info/readasdas
+ERR: 非法操作:readasdas
+
+[ 2016-04-24T16:05:27+08:00 ] 127.0.0.1 /index.php/Home/Info/readasdas
+ERR: 非法操作:readasdas
+
+[ 2016-04-24T16:05:32+08:00 ] 127.0.0.1 /index.php/Home/Info/readasdas
+ERR: 非法操作:readasdas
+
+[ 2016-04-24T16:05:37+08:00 ] 127.0.0.1 /index.php/Home/Info/readasdas
+ERR: 非法操作:readasdas
+
+[ 2016-04-24T16:05:37+08:00 ] 127.0.0.1 /index.php/Home/Info/readasdas
+ERR: 非法操作:readasdas
+
+[ 2016-04-24T16:06:04+08:00 ] 127.0.0.1 /index.php/Home/Info/readasdas
+ERR: 非法操作:readasdas
+
+[ 2016-04-24T16:06:06+08:00 ] 127.0.0.1 /index.php/Home/Info/readasdas
+ERR: 非法操作:readasdas
+
+[ 2016-04-24T16:06:09+08:00 ] 127.0.0.1 /index.php/Home/Info/read
+ERR: 新增失败
+
+[ 2016-04-24T16:06:09+08:00 ] 127.0.0.1 /index.php/Home/Info/read
+ERR: 新增失败
+
+[ 2016-04-24T16:06:09+08:00 ] 127.0.0.1 /index.php/Home/Info/read
+ERR: 新增失败
+
+[ 2016-04-24T16:06:10+08:00 ] 127.0.0.1 /index.php/Home/Info/read
+ERR: 新增失败
+
+[ 2016-04-24T16:06:10+08:00 ] 127.0.0.1 /index.php/Home/Info/read
+ERR: 新增失败
+
+[ 2016-04-24T16:06:11+08:00 ] 127.0.0.1 /index.php/Home/Info/read
+ERR: 新增失败
+
+[ 2016-04-24T16:06:11+08:00 ] 127.0.0.1 /index.php/Home/Info/read
+ERR: 新增失败
+
+[ 2016-04-24T16:06:11+08:00 ] 127.0.0.1 /index.php/Home/Info/read
+ERR: 新增失败
+
+[ 2016-04-24T16:06:26+08:00 ] 127.0.0.1 /index.php/Home/Info/readasdas
+ERR: 非法操作:readasdas
+
+[ 2016-04-24T16:06:29+08:00 ] 127.0.0.1 /index.php/Home/Info/readasdas
+ERR: 非法操作:readasdas
+
+[ 2016-04-24T16:06:31+08:00 ] 127.0.0.1 /index.php/Home/Info/read
+ERR: 新增失败
+
+[ 2016-04-24T16:06:32+08:00 ] 127.0.0.1 /index.php/Home/Info/read
+ERR: 新增失败
+
+[ 2016-04-24T16:06:32+08:00 ] 127.0.0.1 /index.php/Home/Info/read
+ERR: 新增失败
+
+[ 2016-04-24T16:07:01+08:00 ] 127.0.0.1 /index.php/Home/Info/read
+ERR: 新增失败
+
+[ 2016-04-24T16:07:38+08:00 ] 127.0.0.1 /index.php/Home/Info/readasdas
+ERR: 非法操作:readasdas
+
+[ 2016-04-24T16:08:07+08:00 ] 127.0.0.1 /index.php/Home/
+ERR: 参数错误或者未定义:id
+
+[ 2016-04-24T16:08:26+08:00 ] 127.0.0.1 /index.php/Home/infoa/read/
+ERR: 无法加载控制器:Infoa
+
+[ 2016-04-24T16:11:19+08:00 ] 127.0.0.1 /index.php/Home/adsfads
+ERR: 无法加载控制器:Adsfads
+
+[ 2016-04-24T16:12:40+08:00 ] 127.0.0.1 /index.php/
+ERR: 参数错误或者未定义:id
+
+[ 2016-04-24T16:13:04+08:00 ] 127.0.0.1 /index.php
+ERR: 参数错误或者未定义:id
+
+[ 2016-04-24T16:13:05+08:00 ] 127.0.0.1 /index.php
+ERR: 参数错误或者未定义:id
+
+[ 2016-04-24T16:13:06+08:00 ] 127.0.0.1 /index.php
+ERR: 参数错误或者未定义:id
+
+[ 2016-04-24T16:13:06+08:00 ] 127.0.0.1 /index.php
+ERR: 参数错误或者未定义:id
+
+[ 2016-04-24T16:13:10+08:00 ] 127.0.0.1 /index.php
+ERR: 参数错误或者未定义:id
+
+[ 2016-04-24T16:14:21+08:00 ] 127.0.0.1 /index.php/Home/asdas
+ERR: 无法加载控制器:Asdas
+
+[ 2016-04-24T16:14:31+08:00 ] 127.0.0.1 /index.php/Home/Iasd
+ERR: 无法加载控制器:Iasd
+
+[ 2016-04-24T16:14:33+08:00 ] 127.0.0.1 /index.php/Home/Iasd
+ERR: 无法加载控制器:Iasd
+
+[ 2016-04-24T16:14:34+08:00 ] 127.0.0.1 /index.php/Home/Iasd
+ERR: 无法加载控制器:Iasd
+
+[ 2016-04-24T16:14:56+08:00 ] 127.0.0.1 /index.php/Home/Info
+ERR: 非法操作:index
+
+[ 2016-04-24T16:14:56+08:00 ] 127.0.0.1 /index.php/Home/Info
+ERR: 非法操作:index
+
+[ 2016-04-24T16:14:57+08:00 ] 127.0.0.1 /index.php/Home/Info
+ERR: 非法操作:index
+
+[ 2016-04-24T16:15:04+08:00 ] 127.0.0.1 /index.php/Home/asdas
+ERR: 无法加载控制器:Asdas
+
+[ 2016-04-24T16:15:37+08:00 ] 127.0.0.1 /index.php/Home/info/read
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000192s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000231s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000257s ]
+
+[ 2016-04-24T16:15:39+08:00 ] 127.0.0.1 /index.php/Home/insadfa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000188s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000273s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000304s ]
+ERR: 无法加载控制器:Insadfa
+
+[ 2016-04-24T16:15:44+08:00 ] 127.0.0.1 /index.php/Home/info/read
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000182s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000259s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000289s ]
+
+[ 2016-04-24T16:18:30+08:00 ] 127.0.0.1 /index.php/Home/info/read
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000569s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000249s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000278s ]
+
+[ 2016-04-24T16:18:48+08:00 ] 127.0.0.1 /index.php/Home/info/read
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000178s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000521s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000567s ]
+
+[ 2016-04-24T16:18:53+08:00 ] 127.0.0.1 /index.php/Home/info/read
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000174s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000216s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000242s ]
+
+[ 2016-04-24T16:19:14+08:00 ] 127.0.0.1 /index.php/Home/info/read
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000328s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000403s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000457s ]
+
+[ 2016-04-24T16:19:24+08:00 ] 127.0.0.1 /index.php/Home/info/read
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000259s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000325s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000362s ]
+
+[ 2016-04-24T16:19:26+08:00 ] 127.0.0.1 /index.php/Home/info/read
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000269s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000359s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000406s ]
+
+[ 2016-04-24T16:21:35+08:00 ] 127.0.0.1 /index.php/Home/info/read
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000596s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000548s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000668s ]
+NOTIC: [2048] Declaration of Home\Common\RestController::error() should be compatible with Think\Controller::error($message = '', $jumpUrl = '', $ajax = false) /Users/xxstop/tmp/thinkphp/Application/Home/Common/RestController.class.php 第 7 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Users/xxstop/tmp/thinkphp/Application/Home/Controller/InfoController.class.php:10) /Users/xxstop/tmp/thinkphp/ThinkPHP/Library/Think/Controller/RestController.class.php 第 178 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Users/xxstop/tmp/thinkphp/Application/Home/Controller/InfoController.class.php:10) /Users/xxstop/tmp/thinkphp/ThinkPHP/Library/Think/Controller/RestController.class.php 第 180 行.
+
+[ 2016-04-24T16:25:02+08:00 ] 127.0.0.1 /index.php/Home/info/read
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000596s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000295s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000337s ]
+NOTIC: [2048] Declaration of Home\Common\RestController::error() should be compatible with Think\Controller::error($message = '', $jumpUrl = '', $ajax = false) /Users/xxstop/tmp/thinkphp/Application/Home/Common/RestController.class.php 第 7 行.
+
+[ 2016-04-24T16:31:28+08:00 ] 127.0.0.1 /index.php/Home/info/read
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000414s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000822s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000917s ]
+NOTIC: [2048] Declaration of Home\Common\RestController::error() should be compatible with Think\Controller::error($message = '', $jumpUrl = '', $ajax = false) /Users/xxstop/tmp/thinkphp/Application/Home/Common/RestController.class.php 第 7 行.
+
+[ 2016-04-24T16:31:51+08:00 ] 127.0.0.1 /index.php/Home/info/read
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000347s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000371s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000414s ]
+NOTIC: [2048] Declaration of Home\Common\RestController::error() should be compatible with Think\Controller::error($message = '', $jumpUrl = '', $ajax = false) /Users/xxstop/tmp/thinkphp/Application/Home/Common/RestController.class.php 第 7 行.
+
+[ 2016-04-24T16:31:57+08:00 ] 127.0.0.1 /index.php/Home/info/read
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000262s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000323s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000358s ]
+NOTIC: [2048] Declaration of Home\Common\RestController::error() should be compatible with Think\Controller::error($message = '', $jumpUrl = '', $ajax = false) /Users/xxstop/tmp/thinkphp/Application/Home/Common/RestController.class.php 第 7 行.
+
+[ 2016-04-24T16:32:07+08:00 ] 127.0.0.1 /index.php/Home/info/read
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000419s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000666s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000771s ]
+NOTIC: [2048] Declaration of Home\Common\RestController::error() should be compatible with Think\Controller::error($message = '', $jumpUrl = '', $ajax = false) /Users/xxstop/tmp/thinkphp/Application/Home/Common/RestController.class.php 第 7 行.
+
+[ 2016-04-24T16:32:12+08:00 ] 127.0.0.1 /index.php/Home/info/read
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000296s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000449s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000511s ]
+NOTIC: [2048] Declaration of Home\Common\RestController::error() should be compatible with Think\Controller::error($message = '', $jumpUrl = '', $ajax = false) /Users/xxstop/tmp/thinkphp/Application/Home/Common/RestController.class.php 第 7 行.
+
+[ 2016-04-24T16:32:25+08:00 ] 127.0.0.1 /index.php/Home/info/read
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000204s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000378s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000435s ]
+
+[ 2016-04-24T16:32:31+08:00 ] 127.0.0.1 /index.php/Home/info/read
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000601s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000595s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000706s ]
+NOTIC: [2048] Declaration of Home\Common\RestController::error() should be compatible with Think\Controller::error($message = '', $jumpUrl = '', $ajax = false) /Users/xxstop/tmp/thinkphp/Application/Home/Common/RestController.class.php 第 7 行.
+
+[ 2016-04-24T16:32:39+08:00 ] 127.0.0.1 /index.php/Home/info/read
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000325s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002495s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002573s ]
+NOTIC: [2048] Declaration of Home\Common\RestController::error() should be compatible with Think\Controller::error($message = '', $jumpUrl = '', $ajax = false) /Users/xxstop/tmp/thinkphp/Application/Home/Common/RestController.class.php 第 7 行.
+
+[ 2016-04-24T16:32:51+08:00 ] 127.0.0.1 /index.php/Home/info/read
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000297s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000394s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000432s ]
+NOTIC: [2048] Declaration of Home\Common\RestController::error() should be compatible with Think\Controller::error($message = '', $jumpUrl = '', $ajax = false) /Users/xxstop/tmp/thinkphp/Application/Home/Common/RestController.class.php 第 7 行.
+
+[ 2016-04-24T16:33:02+08:00 ] 127.0.0.1 /index.php/Home/info/read
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000316s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000261s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000291s ]
+NOTIC: [2048] Declaration of Home\Common\RestController::error() should be compatible with Think\Controller::error($message = '', $jumpUrl = '', $ajax = false) /Users/xxstop/tmp/thinkphp/Application/Home/Common/RestController.class.php 第 7 行.
+
+[ 2016-04-24T16:33:06+08:00 ] 127.0.0.1 /index.php/Home/info/read
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000180s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000223s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000251s ]
+NOTIC: [2048] Declaration of Home\Common\RestController::error() should be compatible with Think\Controller::error($message = '', $jumpUrl = '', $ajax = false) /Users/xxstop/tmp/thinkphp/Application/Home/Common/RestController.class.php 第 7 行.
+
+[ 2016-04-24T16:33:09+08:00 ] 127.0.0.1 /index.php/Home/info/read
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000179s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000344s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000411s ]
+NOTIC: [2048] Declaration of Home\Common\RestController::error() should be compatible with Think\Controller::error($message = '', $jumpUrl = '', $ajax = false) /Users/xxstop/tmp/thinkphp/Application/Home/Common/RestController.class.php 第 7 行.
+
+[ 2016-04-24T16:33:14+08:00 ] 127.0.0.1 /index.php/Home/info/read
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000184s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000223s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000249s ]
+NOTIC: [2048] Declaration of Home\Common\RestController::error() should be compatible with Think\Controller::error($message = '', $jumpUrl = '', $ajax = false) /Users/xxstop/tmp/thinkphp/Application/Home/Common/RestController.class.php 第 7 行.
+
+[ 2016-04-24T16:34:09+08:00 ] 127.0.0.1 /index.php/Home/Info/read
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000301s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000451s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000502s ]
+NOTIC: [2048] Declaration of Home\Common\RestController::error() should be compatible with Think\Controller::error($message = '', $jumpUrl = '', $ajax = false) /Users/xxstop/tmp/thinkphp/Application/Home/Common/RestController.class.php 第 7 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000449s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000509s ]
+
+[ 2016-04-24T16:34:10+08:00 ] 127.0.0.1 /index.php/Home/Info/read
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000195s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000314s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000348s ]
+NOTIC: [2048] Declaration of Home\Common\RestController::error() should be compatible with Think\Controller::error($message = '', $jumpUrl = '', $ajax = false) /Users/xxstop/tmp/thinkphp/Application/Home/Common/RestController.class.php 第 7 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000334s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000377s ]
+
+[ 2016-04-24T16:34:11+08:00 ] 127.0.0.1 /index.php/Home/Info/read
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000342s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000392s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000444s ]
+NOTIC: [2048] Declaration of Home\Common\RestController::error() should be compatible with Think\Controller::error($message = '', $jumpUrl = '', $ajax = false) /Users/xxstop/tmp/thinkphp/Application/Home/Common/RestController.class.php 第 7 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000270s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000302s ]
+
+[ 2016-04-24T16:34:11+08:00 ] 127.0.0.1 /index.php/Home/Info/read
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000315s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000402s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000455s ]
+NOTIC: [2048] Declaration of Home\Common\RestController::error() should be compatible with Think\Controller::error($message = '', $jumpUrl = '', $ajax = false) /Users/xxstop/tmp/thinkphp/Application/Home/Common/RestController.class.php 第 7 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000272s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000309s ]
+
+[ 2016-04-24T16:34:24+08:00 ] 127.0.0.1 /index.php/Home/Info/read
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000315s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000408s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000455s ]
+NOTIC: [2048] Declaration of Home\Common\RestController::error() should be compatible with Think\Controller::error($message = '', $jumpUrl = '', $ajax = false) /Users/xxstop/tmp/thinkphp/Application/Home/Common/RestController.class.php 第 7 行.
+
+[ 2016-04-24T16:34:27+08:00 ] 127.0.0.1 /index.php/Home/Info/read
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000255s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000407s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000456s ]
+NOTIC: [2048] Declaration of Home\Common\RestController::error() should be compatible with Think\Controller::error($message = '', $jumpUrl = '', $ajax = false) /Users/xxstop/tmp/thinkphp/Application/Home/Common/RestController.class.php 第 7 行.
+
+[ 2016-04-24T16:35:22+08:00 ] 127.0.0.1 /index.php/Home/Info/read
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000340s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000421s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000472s ]
+NOTIC: [2048] Declaration of Home\Common\RestController::error() should be compatible with Think\Controller::error($message = '', $jumpUrl = '', $ajax = false) /Users/xxstop/tmp/thinkphp/Application/Home/Common/RestController.class.php 第 7 行.
+
+[ 2016-04-24T16:35:23+08:00 ] 127.0.0.1 /index.php/Home/Info/read
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000368s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000246s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000274s ]
+NOTIC: [2048] Declaration of Home\Common\RestController::error() should be compatible with Think\Controller::error($message = '', $jumpUrl = '', $ajax = false) /Users/xxstop/tmp/thinkphp/Application/Home/Common/RestController.class.php 第 7 行.
+
+[ 2016-04-24T16:35:23+08:00 ] 127.0.0.1 /index.php/Home/Info/read
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000308s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000569s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000619s ]
+NOTIC: [2048] Declaration of Home\Common\RestController::error() should be compatible with Think\Controller::error($message = '', $jumpUrl = '', $ajax = false) /Users/xxstop/tmp/thinkphp/Application/Home/Common/RestController.class.php 第 7 行.
+
+[ 2016-04-24T16:35:54+08:00 ] 127.0.0.1 /index.php/Home/info/read
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000233s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000276s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000315s ]
+NOTIC: [2048] Declaration of Home\Common\RestController::error() should be compatible with Think\Controller::error($message = '', $jumpUrl = '', $ajax = false) /Users/xxstop/tmp/thinkphp/Application/Home/Common/RestController.class.php 第 7 行.
+
+[ 2016-04-24T16:35:56+08:00 ] 127.0.0.1 /index.php/Home/info/read
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000206s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000242s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000274s ]
+NOTIC: [2048] Declaration of Home\Common\RestController::error() should be compatible with Think\Controller::error($message = '', $jumpUrl = '', $ajax = false) /Users/xxstop/tmp/thinkphp/Application/Home/Common/RestController.class.php 第 7 行.
+
+[ 2016-04-24T16:36:31+08:00 ] 127.0.0.1 /index.php/Home/info/read
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000326s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000260s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000299s ]
+NOTIC: [2048] Declaration of Home\Common\RestController::error() should be compatible with Think\Controller::error($message = '', $jumpUrl = '', $ajax = false) /Users/xxstop/tmp/thinkphp/Application/Home/Common/RestController.class.php 第 7 行.
+
+[ 2016-04-24T16:41:42+08:00 ] 127.0.0.1 /index.php/Home/info/read
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007155s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000498s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000541s ]
+NOTIC: [2048] Declaration of Home\Common\RestController::error() should be compatible with Think\Controller::error($message = '', $jumpUrl = '', $ajax = false) /Users/xxstop/tmp/thinkphp/Application/Home/Common/RestController.class.php 第 7 行.
+
+[ 2016-04-24T16:41:49+08:00 ] 127.0.0.1 /index.php/Home/info/read
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000177s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000218s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000244s ]
+NOTIC: [2048] Declaration of Home\Common\RestController::error() should be compatible with Think\Controller::error($message = '', $jumpUrl = '', $ajax = false) /Users/xxstop/tmp/thinkphp/Application/Home/Common/RestController.class.php 第 7 行.
+
+[ 2016-04-24T16:43:47+08:00 ] 127.0.0.1 /index.php/Home/info/read
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007182s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000495s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000539s ]
+NOTIC: [2048] Declaration of Home\Common\RestController::error() should be compatible with Think\Controller::error($message = '', $jumpUrl = '', $ajax = false) /Users/xxstop/tmp/thinkphp/Application/Home/Common/RestController.class.php 第 7 行.
+
+[ 2016-04-24T16:43:48+08:00 ] 127.0.0.1 /index.php/Home/info/read
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000182s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000223s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000250s ]
+NOTIC: [2048] Declaration of Home\Common\RestController::error() should be compatible with Think\Controller::error($message = '', $jumpUrl = '', $ajax = false) /Users/xxstop/tmp/thinkphp/Application/Home/Common/RestController.class.php 第 7 行.
+
+[ 2016-04-24T16:43:55+08:00 ] 127.0.0.1 /index.php/Home/Info/read
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000318s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000399s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000455s ]
+NOTIC: [2048] Declaration of Home\Common\RestController::error() should be compatible with Think\Controller::error($message = '', $jumpUrl = '', $ajax = false) /Users/xxstop/tmp/thinkphp/Application/Home/Common/RestController.class.php 第 7 行.
+
+[ 2016-04-24T16:44:32+08:00 ] 127.0.0.1 /index.php/Home/Info/read
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000318s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000343s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000385s ]
+NOTIC: [2048] Declaration of Home\Common\RestController::error() should be compatible with Think\Controller::error($message = '', $jumpUrl = '', $ajax = false) /Users/xxstop/tmp/thinkphp/Application/Home/Common/RestController.class.php 第 7 行.
+
+[ 2016-04-24T16:45:32+08:00 ] 127.0.0.1 /index.php/Home/info/read
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000175s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000214s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000241s ]
+NOTIC: [2048] Declaration of Home\Common\RestController::error() should be compatible with Think\Controller::error($message = '', $jumpUrl = '', $ajax = false) /Users/xxstop/tmp/thinkphp/Application/Home/Common/RestController.class.php 第 7 行.
+
+[ 2016-04-24T16:45:34+08:00 ] 127.0.0.1 /index.php/Home/Info/read
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000336s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000448s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000515s ]
+NOTIC: [2048] Declaration of Home\Common\RestController::error() should be compatible with Think\Controller::error($message = '', $jumpUrl = '', $ajax = false) /Users/xxstop/tmp/thinkphp/Application/Home/Common/RestController.class.php 第 7 行.
+
+[ 2016-04-24T16:48:08+08:00 ] 127.0.0.1 /index.php/Home/info/read
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000255s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000260s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000294s ]
+NOTIC: [2048] Declaration of Home\Common\RestController::error() should be compatible with Think\Controller::error($message = '', $jumpUrl = '', $ajax = false) /Users/xxstop/tmp/thinkphp/Application/Home/Common/RestController.class.php 第 7 行.
+
+[ 2016-04-24T16:48:12+08:00 ] 127.0.0.1 /index.php/Home/info/read
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000178s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000279s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000305s ]
+NOTIC: [2048] Declaration of Home\Common\RestController::error() should be compatible with Think\Controller::error($message = '', $jumpUrl = '', $ajax = false) /Users/xxstop/tmp/thinkphp/Application/Home/Common/RestController.class.php 第 7 行.
+
+[ 2016-04-24T16:48:55+08:00 ] 127.0.0.1 /index.php/Home/info/read
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000170s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000224s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000248s ]
+NOTIC: [2048] Declaration of Home\Common\RestController::error() should be compatible with Think\Controller::error($message = '', $jumpUrl = '', $ajax = false) /Users/xxstop/tmp/thinkphp/Application/Home/Common/RestController.class.php 第 7 行.
+NOTIC: [8] Undefined variable: http_response_header /Users/xxstop/tmp/thinkphp/Application/Home/Controller/InfoController.class.php 第 10 行.
+
+[ 2016-04-24T16:48:56+08:00 ] 127.0.0.1 /index.php/Home/info/read
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000168s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000217s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000243s ]
+NOTIC: [2048] Declaration of Home\Common\RestController::error() should be compatible with Think\Controller::error($message = '', $jumpUrl = '', $ajax = false) /Users/xxstop/tmp/thinkphp/Application/Home/Common/RestController.class.php 第 7 行.
+NOTIC: [8] Undefined variable: http_response_header /Users/xxstop/tmp/thinkphp/Application/Home/Controller/InfoController.class.php 第 10 行.
+
+[ 2016-04-24T16:49:07+08:00 ] 127.0.0.1 /index.php/Home/info/read
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000172s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000217s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000243s ]
+NOTIC: [2048] Declaration of Home\Common\RestController::error() should be compatible with Think\Controller::error($message = '', $jumpUrl = '', $ajax = false) /Users/xxstop/tmp/thinkphp/Application/Home/Common/RestController.class.php 第 7 行.
+NOTIC: [8] Undefined variable: http_response_header /Users/xxstop/tmp/thinkphp/Application/Home/Controller/InfoController.class.php 第 10 行.
+
+[ 2016-04-24T16:50:55+08:00 ] 127.0.0.1 /index.php/Home/Info/read
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000337s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000407s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000455s ]
+NOTIC: [2048] Declaration of Home\Common\RestController::error() should be compatible with Think\Controller::error($message = '', $jumpUrl = '', $ajax = false) /Users/xxstop/tmp/thinkphp/Application/Home/Common/RestController.class.php 第 7 行.
+
+[ 2016-04-24T16:54:51+08:00 ] 127.0.0.1 /index.php/Home/Info/read
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000174s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000235s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000263s ]
+NOTIC: [2048] Declaration of Home\Common\RestController::error() should be compatible with Think\Controller::error($message = '', $jumpUrl = '', $ajax = false) /Users/xxstop/tmp/thinkphp/Application/Home/Common/RestController.class.php 第 7 行.
+
+[ 2016-04-24T16:55:17+08:00 ] 127.0.0.1 /index.php/Home/Info/read
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000250s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000245s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000274s ]
+NOTIC: [2048] Declaration of Home\Common\RestController::error() should be compatible with Think\Controller::error($message = '', $jumpUrl = '', $ajax = false) /Users/xxstop/tmp/thinkphp/Application/Home/Common/RestController.class.php 第 7 行.
+
+[ 2016-04-24T16:57:14+08:00 ] 127.0.0.1 /index.php/Home/Info/read
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000280s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000270s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000305s ]
+NOTIC: [2048] Declaration of Home\Common\RestController::error() should be compatible with Think\Controller::error($message = '', $jumpUrl = '', $ajax = false) /Users/xxstop/tmp/thinkphp/Application/Home/Common/RestController.class.php 第 7 行.
+
+[ 2016-04-24T16:57:14+08:00 ] 127.0.0.1 /index.php/Home/Info/read
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000335s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000429s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000475s ]
+NOTIC: [2048] Declaration of Home\Common\RestController::error() should be compatible with Think\Controller::error($message = '', $jumpUrl = '', $ajax = false) /Users/xxstop/tmp/thinkphp/Application/Home/Common/RestController.class.php 第 7 行.
+
+[ 2016-04-24T16:57:14+08:00 ] 127.0.0.1 /index.php/Home/Info/read
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000264s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000271s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000305s ]
+NOTIC: [2048] Declaration of Home\Common\RestController::error() should be compatible with Think\Controller::error($message = '', $jumpUrl = '', $ajax = false) /Users/xxstop/tmp/thinkphp/Application/Home/Common/RestController.class.php 第 7 行.
+
+[ 2016-04-24T16:57:19+08:00 ] 127.0.0.1 /index.php/Home/Info/read
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000307s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000556s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000647s ]
+NOTIC: [2048] Declaration of Home\Common\RestController::error() should be compatible with Think\Controller::error($message = '', $jumpUrl = '', $ajax = false) /Users/xxstop/tmp/thinkphp/Application/Home/Common/RestController.class.php 第 7 行.
+
+[ 2016-04-24T16:57:20+08:00 ] 127.0.0.1 /index.php/Home/Info/read
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000304s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000418s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000477s ]
+NOTIC: [2048] Declaration of Home\Common\RestController::error() should be compatible with Think\Controller::error($message = '', $jumpUrl = '', $ajax = false) /Users/xxstop/tmp/thinkphp/Application/Home/Common/RestController.class.php 第 7 行.
+
+[ 2016-04-24T16:58:43+08:00 ] 127.0.0.1 /index.php/Home/Info/read
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000192s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000342s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000388s ]
+NOTIC: [2048] Declaration of Common\Common\RestController::error() should be compatible with Think\Controller::error($message = '', $jumpUrl = '', $ajax = false) /Users/xxstop/tmp/thinkphp/Application/Common/Common/RestController.class.php 第 7 行.
+
+[ 2016-04-24T16:58:44+08:00 ] 127.0.0.1 /index.php/Home/Info/read
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000705s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000410s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000466s ]
+NOTIC: [2048] Declaration of Common\Common\RestController::error() should be compatible with Think\Controller::error($message = '', $jumpUrl = '', $ajax = false) /Users/xxstop/tmp/thinkphp/Application/Common/Common/RestController.class.php 第 7 行.
+
+[ 2016-04-24T16:58:44+08:00 ] 127.0.0.1 /index.php/Home/Info/read
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000191s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000401s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000446s ]
+NOTIC: [2048] Declaration of Common\Common\RestController::error() should be compatible with Think\Controller::error($message = '', $jumpUrl = '', $ajax = false) /Users/xxstop/tmp/thinkphp/Application/Common/Common/RestController.class.php 第 7 行.
+

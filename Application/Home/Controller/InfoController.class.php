@@ -1,11 +1,19 @@
 <?php
 namespace Home\Controller;
 
-use Home\Common\RestController;
+use Common\Common\RestController;
 
 class InfoController extends RestController
 {
-    Public function read_get(){
-        $this->response(new \stdClass(), 'json');
+    public function read_get()
+    {
+        /* $headers = array();
+        foreach ($_SERVER as $key => $value) {
+            if ('HTTP_' == substr($key, 0, 5)) {
+                $headers[str_replace('_', '-', substr($key, 5))] = $value;
+            }
+        }
+        var_dump($headers); */
+        $this->response([]);
     }
 }
