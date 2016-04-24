@@ -19,7 +19,6 @@ class TestController extends RestController
 
     public function read_post()
     {
-        var_dump($this->request->header('client'));
-        echo 'hello post';
+        $this->response($this->request->header());
     }
 }
