@@ -5,7 +5,17 @@ use Think\Controller\RestController as TpRestController;
 
 class RestController extends TpRestController
 {
+    /**
+     * @var Request
+     */
+    protected $request;
     protected $returnType = 'json';
+
+    public function __construct()
+    {
+        parent::__construct();
+        $this->request = Request::getInstance();
+    }
 
     /**
      * Rest报错方法
