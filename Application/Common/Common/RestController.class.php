@@ -3,7 +3,7 @@ namespace Common\Common;
 
 use Think\Controller\RestController as TpRestController;
 
-class RestController extends TpRestController
+abstract class RestController extends TpRestController
 {
     /**
      * @var Request
@@ -15,7 +15,14 @@ class RestController extends TpRestController
     {
         parent::__construct();
         $this->request = Request::getInstance();
+
+        $this->initialize();
     }
+
+    /**
+     * 初始化啥...
+     */
+    protected function initialize() {}
 
     /**
      * Rest报错方法
