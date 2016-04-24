@@ -1,9 +1,9 @@
 <?php
 namespace Home\Controller;
 
-use Common\Common\RestController;
+use Common\Common\AuthRestController;
 
-class InfoController extends RestController
+class InfoController extends AuthRestController
 {
     public function read_get()
     {
